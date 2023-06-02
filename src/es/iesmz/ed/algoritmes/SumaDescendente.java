@@ -2,8 +2,8 @@ package es.iesmz.ed.algoritmes;
 
 /**
  * Esta clase calcula la suma descendente de un numero.
- * @author: Alberto Nieto
- * @version: 02/06/2023
+ *@author: Alberto Nieto
+ *@version: 02/06/2023
  */
 
 public class SumaDescendente {
